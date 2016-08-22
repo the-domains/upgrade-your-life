@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.202509
 color:
-  saturation: 0.546595
+  saturation: 0.7795699
   brandStrength: 0.797491
-  lightness: 0.4014337
+  lightness: 0.3369175
   brandColors:
     - '#000000'
     - '#FFFF01'
     - '#FFAA02'
     - '#AC7E5A'
     - '#035F7F'
-  rhythmicContrast: 0.5268817
+  rhythmicContrast: 0.2007169
+typography_spectrum: 0.202509
 layout_spectrum: 0.9589119
 name: Upgrade Your Life
