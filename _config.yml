@@ -1,14 +1,26 @@
-layout_spectrum: 0.9589119
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.202509
 color:
   saturation: 0.8538577
-  lightness: 0.2356345
   brandStrength: 0.797491
+  lightness: 0.2356345
   brandColors:
-    - '#FEFEFE'
-    - '#818181'
-    - '#F8B133'
-    - '#BAB9B8'
-    - '#5F5D5D'
+    - '#000000'
+    - '#FFFF01'
+    - '#FFAA02'
+    - '#AC7E5A'
+    - '#035F7F'
   rhythmicContrast: 0.9041818
+layout_spectrum: 0.9589119
 name: Upgrade Your Life
