@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.202509
 color:
-  saturation: 0.8538577
+  saturation: 0.546595
   brandStrength: 0.797491
-  lightness: 0.2356345
+  lightness: 0.4014337
   brandColors:
     - '#000000'
     - '#FFFF01'
     - '#FFAA02'
     - '#AC7E5A'
     - '#035F7F'
-  rhythmicContrast: 0.9041818
+  rhythmicContrast: 0.5268817
 layout_spectrum: 0.9589119
 name: Upgrade Your Life
